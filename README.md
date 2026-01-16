@@ -31,7 +31,7 @@ This GitHub organization hosts our open-source projects, data analysis tools, an
 ## Contact
 
 - 🌐 Website: [epicentre.msf.org](https://epicentre.msf.org)
-- 📧 Email: epicentre@epicentre.msf.org
+- 📧 Email: contact@epicentre.msf.org
 
 ---
 
