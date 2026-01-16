@@ -14,6 +14,16 @@ Our experience and presence within MSF enables us to design and carry out projec
 
 ---
 
+## Open-source Resources
+
+- [{repicentre}](https://epicentre-msf.github.io/repicentre/): an open-source repository of self-paced tutorials for applying R in humanitarian contexts
+
+- The [Data Science Team Gallery](https://epicentre-msf.github.io/gallery/): a gallery of the dashboards, tools and R packages developped by the Data Science team. 
+
+- The [GeoApp](https://apps.epicentre-msf.org/secure/app/outbreak-tools-geoapp): an interactive web application designed to facilitate the inclusion of geographic information into an [Outbreak Tools](https://epicentre-msf.github.io/outbreak-tools/) Linelist.
+
+- The [Meeting Place Planner](https://apps.epicentre-msf.org/public/app/carbon-travel-app): a tool to estimate the best location to host a meeting based on participant location and number, to minimise flight travel emissions.
+
 ## Connect With Us
 
 - [Website](https://epicentre.msf.org/en/epicentre)  
